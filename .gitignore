@@ -16,3 +16,6 @@
 
 # NetBeans
 **/nbactions.xml
+
+# Npm
+**/node_modules
